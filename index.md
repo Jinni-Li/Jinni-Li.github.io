@@ -6,9 +6,13 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Hello, I'm *Jinni Li* ([李金霓](https://jinni-li.github.io/file/CV_JinniLI.pdf)), a passionate data enthusiast currently working as a *Market Research Intern at Ipsos* in Barcelona. I hold a *BBA degree* from Pompeu Fabra University, where I also had the valuable experience of an exchange program at ESSEC Business School. In the past, I've also worked as an International Online Channel Intern at Bella Aurora Labs.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+Alongside my professional experiences, I am pursuing a *Master's in Data Science* at Universitat Oberta de Catalunya to further enhance my skills in this dynamic field. On this website, you'll find insights from my academic journey, as well as my experiences in market research, business, data science, marketing, and programming.
+
+Let's connect and explore opportunities together! Feel free to refer to [my resume](https://jinni-li.github.io/file/CV_JinniLI.pdf) for further details. Thank you for visiting!
+
+
 
 <br>
 

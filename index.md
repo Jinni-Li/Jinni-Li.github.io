@@ -6,9 +6,11 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Hello, I'm *Jinni Li* ([李金霓](https://jinni-li.github.io/file/CV_JinniLI.pdf)), a passionate data enthusiast currently working as a *Market Research Intern at Ipsos* in Barcelona. I hold a *BBA degree* from Pompeu Fabra University, where I also had the valuable experience of an exchange program at ESSEC Business School. In the past, I've also worked as an International Online Channel Intern at Bella Aurora Labs.
+Hello, I'm **Jinni Li** ([李金霓](https://jinni-li.github.io/file/CV_JinniLI.pdf)), a data enthusiast currently working as a **Market Research Intern at Ipsos** in Barcelona. I hold a **BBA degree** from Pompeu Fabra University, where I also had the valuable experience of an exchange program at ESSEC Business School. In the past, I've also worked as an International Online Channel Intern at Bella Aurora Labs.
 
-Alongside my professional experiences, I am pursuing a *Master's in Data Science* at Universitat Oberta de Catalunya to further enhance my skills in this dynamic field. On this website, you'll find insights from my academic journey, as well as my experiences in market research, business, data science, marketing, and programming.
+
+Alongside my professional experiences, I am pursuing a **Master's in Data Science** at Universitat Oberta de Catalunya to further enhance my skills in this dynamic field. On this website, you'll find insights from my academic journey, as well as my experiences in market research, business, data science, marketing, and programming.
+
 
 Let's connect and explore opportunities together! Feel free to refer to [my resume](https://jinni-li.github.io/file/CV_JinniLI.pdf) for further details. Thank you for visiting!
 

@@ -19,7 +19,7 @@ Let's connect and explore opportunities together! Feel free to refer to [my resu
 
 ## Professional Experience
 
-**<font color='red'>[Highlight]</font> I am looking for a full time position in the data field to start in 2024. Contact me if you have any leads!** [Online talk with me](https://calendly.com/lancecai/meet-with-lance)
+**<font color='red'>[Highlight]</font> I am looking for a full time position in the data field to start in 2024. Contact me if you have any leads!** [Send me a mail](jinnili2106@gmail.com)
 
 - **July 2023 - Dec 2023:** Market research Intern at Ipsos
 - **July 2021 - May 2022:** Digital Business Intern at Bella Aurora Labs

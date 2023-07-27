@@ -35,9 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/Resume-HanlinCAI.pdf
-  - title: Publications
-    url: /publications/
+    url: /file/CV_JinniLi.pdf
   - title: Projects
     url: /projects/
   - title: Hobbies
@@ -46,7 +44,7 @@ links:
     url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: Europe/Madrid
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -75,7 +73,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: jinni
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

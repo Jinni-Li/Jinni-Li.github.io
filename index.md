@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://jinni-li.github.io/images/jinnili.jpg" class="floatpic" width="360" height="480">
 
 Hello, I'm **Jinni Li** ([李金霓](https://jinni-li.github.io/file/CV_JinniLi.pdf)), a data enthusiast currently working as a **Market Research Intern at Ipsos** in Barcelona. I hold a **BBA degree** from Pompeu Fabra University, with exchange experience at ESSEC Business School.
 
@@ -34,15 +34,5 @@ Let's connect and explore opportunities together! Feel free to refer to [my resu
 
 
 <br>
-
----
-
-## Research Interests
-
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 

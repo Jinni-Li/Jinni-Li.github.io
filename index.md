@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://jinni-li.github.io/images/jinnili.jpg" class="floatpic" width="360" height="480">
+<img src="https://jinni-li.github.io/images/jinnili.jpg" class="floatpic" width="468" height="624">
 
 Hello, I'm **Jinni Li** ([李金霓](https://jinni-li.github.io/file/CV_JinniLi.pdf)), a data enthusiast currently working as a **Market Research Intern at Ipsos** in Barcelona. I hold a **BBA degree** from Pompeu Fabra University, with exchange experience at ESSEC Business School.
 
@@ -13,9 +13,9 @@ I am also pursuing a **Master's in Data Science** at Universitat Oberta de Catal
 
 Let's connect and explore opportunities together! Feel free to refer to [my resume](https://jinni-li.github.io/file/CV_JinniLi.pdf) for further details. Thank you for visiting!
 
----
-
 <br>
+
+---
 
 ## Professional Experience
 

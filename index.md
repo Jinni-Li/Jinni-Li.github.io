@@ -13,6 +13,8 @@ I am also pursuing a **Master's in Data Science** at Universitat Oberta de Catal
 
 Let's connect and explore opportunities together! Feel free to refer to [my resume](https://jinni-li.github.io/file/CV_JinniLi.pdf) for further details. Thank you for visiting!
 
+---
+
 <br>
 
 ## Professional Experience
@@ -22,9 +24,7 @@ Let's connect and explore opportunities together! Feel free to refer to [my resu
 - **July 2023 - Dec 2023:** Market research Intern at Ipsos
 - **July 2021 - May 2022:** Digital Business Intern at Bella Aurora Labs
 
-<br>
-
-<br>
+---
 
 ## Academic Background
 
@@ -34,4 +34,3 @@ Let's connect and explore opportunities together! Feel free to refer to [my resu
 
 
 <br>
-
